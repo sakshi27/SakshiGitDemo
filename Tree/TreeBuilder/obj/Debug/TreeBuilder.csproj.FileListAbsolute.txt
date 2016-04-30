@@ -1,0 +1,8 @@
+C:\Users\sakshia\Documents\Visual Studio 2015\Projects\Tree\TreeBuilder\bin\Debug\TreeBuilder.exe.config
+C:\Users\sakshia\Documents\Visual Studio 2015\Projects\Tree\TreeBuilder\bin\Debug\TreeBuilder.exe
+C:\Users\sakshia\Documents\Visual Studio 2015\Projects\Tree\TreeBuilder\bin\Debug\TreeBuilder.pdb
+C:\Users\sakshia\Documents\Visual Studio 2015\Projects\Tree\TreeBuilder\bin\Debug\Tree.dll
+C:\Users\sakshia\Documents\Visual Studio 2015\Projects\Tree\TreeBuilder\bin\Debug\Tree.pdb
+C:\Users\sakshia\Documents\Visual Studio 2015\Projects\Tree\TreeBuilder\obj\Debug\TreeBuilder.csprojResolveAssemblyReference.cache
+C:\Users\sakshia\Documents\Visual Studio 2015\Projects\Tree\TreeBuilder\obj\Debug\TreeBuilder.exe
+C:\Users\sakshia\Documents\Visual Studio 2015\Projects\Tree\TreeBuilder\obj\Debug\TreeBuilder.pdb
